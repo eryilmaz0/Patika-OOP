@@ -1,8 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightManagement", "..\..\örnekc#\OOPPractice\OOPPractice\FlightManagement\FlightManagement.csproj", "{AFB03D0B-4523-47E3-B487-430E28884F37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB03D0B-4523-47E3-B487-430E28884F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB03D0B-4523-47E3-B487-430E28884F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB03D0B-4523-47E3-B487-430E28884F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB03D0B-4523-47E3-B487-430E28884F37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
