@@ -1,5 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie", "Movie\Movie.csproj", "{C2F386EC-ACC3-4793-8391-720122C83AB3}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "..\..\örnekc#\OOPPractice\OOPPractice\Zoo\Zoo.csproj", "{5C00F999-6300-4C24-8348-27378719D713}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightManagement", "..\..\örnekc#\OOPPractice\OOPPractice\FlightManagement\FlightManagement.csproj", "{AFB03D0B-4523-47E3-B487-430E28884F37}"
@@ -8,6 +10,12 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F386EC-ACC3-4793-8391-720122C83AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F386EC-ACC3-4793-8391-720122C83AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F386EC-ACC3-4793-8391-720122C83AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F386EC-ACC3-4793-8391-720122C83AB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5C00F999-6300-4C24-8348-27378719D713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
