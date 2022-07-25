@@ -1,0 +1,16 @@
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\bin\Debug\net5.0\TrendyolSOLID.exe
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\bin\Debug\net5.0\TrendyolSOLID.deps.json
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\bin\Debug\net5.0\TrendyolSOLID.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\bin\Debug\net5.0\TrendyolSOLID.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\bin\Debug\net5.0\TrendyolSOLID.dll
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\bin\Debug\net5.0\ref\TrendyolSOLID.dll
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\bin\Debug\net5.0\TrendyolSOLID.pdb
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\obj\Debug\net5.0\TrendyolSOLID.csproj.AssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\obj\Debug\net5.0\TrendyolSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\obj\Debug\net5.0\TrendyolSOLID.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\obj\Debug\net5.0\TrendyolSOLID.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\obj\Debug\net5.0\TrendyolSOLID.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\obj\Debug\net5.0\TrendyolSOLID.dll
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\obj\Debug\net5.0\ref\TrendyolSOLID.dll
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\obj\Debug\net5.0\TrendyolSOLID.pdb
+C:\Users\eren_\Desktop\örnekc#\TrendyolSOLID\TrendyolSOLID\obj\Debug\net5.0\TrendyolSOLID.genruntimeconfig.cache
